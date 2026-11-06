@@ -1,0 +1,7 @@
+# Alarm Clock - dependencies
+#
+# This project uses ONLY the Python standard library (dataclasses, threading,
+# json, pathlib, datetime and - on Windows - winsound). There is nothing to
+# install. `pip install -r requirements.txt` succeeds with no-op on purpose:
+# it keeps tooling/CI happy while making it obvious the app has zero
+# third-party dependencies.

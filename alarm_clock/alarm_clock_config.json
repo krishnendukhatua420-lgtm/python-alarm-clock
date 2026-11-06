@@ -1,0 +1,14 @@
+{
+  "settings": {
+    "ringtone": "default",
+    "duration": 8.0
+  },
+  "alarms": [
+    {
+      "time": "22:11",
+      "label": "",
+      "enabled": true,
+      "repeat_daily": false
+    }
+  ]
+}
